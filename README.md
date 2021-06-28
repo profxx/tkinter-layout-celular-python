@@ -1,2 +1,3 @@
-# tkinter-layout-celular-python
-Trabalho da aluna Lavínia que foi destaque de layout
+# Layout no tkinter em Python
+
+Trabalho da aluna Lavínia que foi destaque de layout.
